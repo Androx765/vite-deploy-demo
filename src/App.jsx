@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import epic_win from './assets/images/Win.png'
-import sad from './assets/images/sad.png'
-import mid from './assets/images/mid.png'
-import happy from './assets/images/happy.png'
+import epic_win from './assets/win.png'
+import sad from './assets/sad.png'
+import mid from './assets/mid.png'
+import happy from './assets/happy.png'
 
 const questions = [
     {
