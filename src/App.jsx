@@ -6,15 +6,31 @@ import happy from './assets/happy.png'
 
 const questions = [
     {
-        question: 'Frage 1: Was ist die Hauptstadt von Deutschland?',
-        answers: ['Berlin', 'Paris', 'London', 'Rom'],
-        correctAnswer: 'Berlin'
+        question: 'Frage 1: Welche besondere Eigenschaft haben Garens Fähigkeiten?',
+        answers: ['keine Fähigkeit skaliert mit "Ability Power"', 'keine Fähigkeit verursacht "True Damage"', 'Jede Fähigkeit hat eine "Cast Time" von 0 Sekunden', 'Jede Fähigkeit kostet Mana'],
+        correctAnswer: 'keine Fähigkeit skaliert mit "Ability Power"'
     },
     {
-        question: 'Frage 2: Was ist die Hauptstadt von Frankreich?',
-        answers: ['Berlin', 'Paris', 'London', 'Rom'],
-        correctAnswer: 'Paris'
+        question: 'Frage 2: Wie alt ist Garen?',
+        answers: ['300', '26', '24', '35'],
+        correctAnswer: '26'
     },
+    {
+        question: 'Frage 3: Wie schwer ist Garen?',
+        answers: ['Selbst mein Toaster könnte diesen Champion spielen😉', 'Selbst mein Goldfisch könnte diesen Champion spielen', 'Selbst meine Mom könnte diesen Champion spielen', 'schwerster Champion in League noCap'],
+        correctAnswer: 'Selbst mein Toaster könnte diesen Champion spielen😉'
+    },
+    {
+        question: 'Frage 4: Wann wurde Garen released?',
+        answers: ['2012', '2009', '2015', '2010'],
+        correctAnswer: '2010'
+    },
+    {
+        question: 'Frage 5: Nach Aktivierung welcher Ability schreit Garen "DEMACIA!"?',
+        answers: ['der E', 'der R', 'der W', 'der Q'],
+        correctAnswer: 'der W'
+    },
+
     // Füge weitere Fragen hier hinzu
 ];
 
